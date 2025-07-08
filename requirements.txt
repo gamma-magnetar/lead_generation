@@ -1,0 +1,8 @@
+google-generativeai
+beautifulsoup4
+requests
+python-dotenv
+pandas
+together
+openai
+tqdm

@@ -1,0 +1,6 @@
+name,title,email_status,website_status,lead_score
+Alice Johnson,Co-founder & CEO,invalid,real_business,49.0
+Carol Lee,Digital Advertiser,invalid,real_business,42.0
+Dan Patel,Product Intern,invalid_format,placeholder,20.0
+Eva Kim,Growth Lead,invalid,unreachable,5.0
+Bob Smith,Marketing Manager,invalid,unreachable,2.0

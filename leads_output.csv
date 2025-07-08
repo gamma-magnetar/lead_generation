@@ -1,0 +1,6 @@
+name,title,email,linkedin_url,company,domain,email_status,website_status,title_score,lead_score
+Alice Johnson,Co-founder & CEO,alice@alphasolutions.io,https://linkedin.com/in/alicejohnson,Alpha Solutions,alphasolutions.io,invalid,real_business,90,49.0
+Bob Smith,Marketing Manager,bob.smith@gmail,https://linkedin.com/in/bsmith,CloudZilla,cloudzilla.co,invalid,unreachable,20,2.0
+Carol Lee,Digital Advertiser,carol@adsninja.com,,Adsninja,adsninja.com,invalid,real_business,20,42.0
+Dan Patel,Product Intern,,https://linkedin.com/in/dpatel,NextTech,nexttech.ai,invalid_format,placeholder,0,20.0
+Eva Kim,Growth Lead,eva@scalehub.io,https://linkedin.com/in/evakim,ScaleHub,scalehub.io,invalid,unreachable,50,5.0
